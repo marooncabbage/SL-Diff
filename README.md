@@ -5,7 +5,6 @@
 - Datasets names are 'Digg', 'Memetracker', 'Android', 'Christianity', 'Twitter'
 
 -Two stage framework:
-<p align="center">
-  <embed src="https://github.com/marooncabbage/SL-Diff/blob/main/OVERVIEW.pdf" type="application/pdf" width="100%" height="600px" />
-</p>
+![Image description](https://github.com/marooncabbage/SL-Diff/raw/main/OVERVIEW.pdf)
+
 (OVERVIEW.pdf)
