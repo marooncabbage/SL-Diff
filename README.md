@@ -1,10 +1,15 @@
--This is the repository for the paper "Two-stage Denoising Diffusion Model for Source Localization in Graph Inverse Problems".
+- This is the repository for the paper "Two-stage Denoising Diffusion Model for Source Localization in Graph Inverse Problems".
 
--The code has been tested under Pytorch 2.0
+- The code has been tested under Pytorch 2.0.
 
-- Datasets names are 'Digg', 'Memetracker', 'Android', 'Christianity', 'Twitter'
+- Datasets names are 'Digg', 'Memetracker', 'Android', 'Christianity', 'Twitter'.
 
--Two stage framework:
-![Image description](https://github.com/marooncabbage/SL-Diff/raw/main/OVERVIEW.pdf)
+## Model Overview
+Two stage framework:
+![twostage](https://github.com/marooncabbage/SL-Diff/blob/main/assets/OVERVIEW_00.png)
 
-(OVERVIEW.pdf)
+which is composed  by the **coarse initialization stage**:
+![twostage](https://github.com/marooncabbage/SL-Diff/blob/main/assets/STAGE1.png)
+
+and the **fine stage**:
+![twostage](https://github.com/marooncabbage/SL-Diff/blob/main/assets/STAGE2.png)
