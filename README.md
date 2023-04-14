@@ -4,7 +4,8 @@
 
 - Datasets names are 'Digg', 'Memetracker', 'Android', 'Christianity', 'Twitter'
 
--two stage framework:
+-Two stage framework:
 <p align="center">
-  <img src=OVERVIEW.pdf" /> 
+  <embed src="https://github.com/marooncabbage/SL-Diff/blob/main/OVERVIEW.pdf" type="application/pdf" width="100%" height="600px" />
 </p>
+(OVERVIEW.pdf)
