@@ -6,7 +6,8 @@
 
 ## Model Overview
 Two stage framework:
-![twostage](https://github.com/marooncabbage/SL-Diff/blob/main/assets/OVERVIEW_00.png)
+
+ <img src="assets/OVERVIEW_00.png" alt="isolated" width="500"/>
 
 which is composed  by the **coarse initialization stage**:
 ![twostage](https://github.com/marooncabbage/SL-Diff/blob/main/assets/STAGE1.png)
